@@ -6,4 +6,7 @@ The goal of this project is to build a high accuracy real time model able to cla
 1. Severe DR
 1. Proliferate DR
 # Getting Started
+## Dataset
+The Dataset can be downloaded http://github.com - automatic!
+[GitHub](http://github.com)
 
