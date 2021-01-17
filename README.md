@@ -16,7 +16,7 @@ The Resnet50_model.py trains the model and stores the results (accuracy and loss
 ## Results
 ![Confusion matrix](https://github.com/Ghailen-Ben-Achour/DR-Diagnosis/blob/master/DR%20Diagnosis/quantized%20model/result.png?raw=true)
 ## Quantization
-Finally, to ensure a real time detection, I used both integer qutization and full integer quatization to convert weights and activation functions from 32bit floats to 8bit integers.
+Finally, to ensure a real time detection, I used both integer qutization and full integer quatization to convert weights and activation functions from 32bit floats to 8bit integers.<br />
 ![weights values](https://github.com/Ghailen-Ben-Achour/DR-Diagnosis/blob/master/DR%20Diagnosis/quantized%20model/quantization.PNG?raw=true)
 
 
