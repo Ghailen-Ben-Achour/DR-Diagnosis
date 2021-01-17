@@ -10,5 +10,11 @@ The goal of this project is to build a high accuracy real time model able to cla
 The Dataset contains 3662 training images and 1928 for testing.<br />
 A CSV file containing the labels is also available.<br />
 The Dataset can be downloaded here: https://www.kaggle.com/c/aptos2019-blindness-detection/data.<br />
+## Code
+To train the model I used transfer learning for Resnet50.<br />
+The Resnet50_model.py trains the model and stores the results (accuracy and loss functions, confusion matrix ...)
+## Result
+![alt text](https://github.com/Ghailen-Ben-Achour/DR-Diagnosis/tree/master/DR%20Diagnosis/quantized%20model/result.png?raw=true)
+
 
 
